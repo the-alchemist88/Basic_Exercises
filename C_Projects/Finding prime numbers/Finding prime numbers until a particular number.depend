@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612184946 source:c:\users\samsung\desktop\finding prime numbers until a particular number\main.c
+	<stdio.h>
+	<stdlib.h>
+
