@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613302120 source:c:\users\samsung\desktop\structure padding\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
