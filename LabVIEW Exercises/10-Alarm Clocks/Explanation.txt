@@ -1,0 +1,14 @@
+   
+   Order of Running VIs:
+
+
+   1)"Write Alarm Clocks.vi" creates a CSV file called "Alarms" on the user desktop with number of alarm 
+     clocks those user set in the VI.
+
+   2)"Read CSV File and Select Clockc.vi" reads the CSV file and selects of one of the alarm clock's 
+     that user wish to use."Selected Clock(Global Variable).vi" transfers the data of alarm  
+     clock to "Alarm clock.vi". So, run "Read CSV File and Select Clockc.vi" with the "Selected Clock
+     (Global Variable).vi" loaded in the memory (concurrently), select the clock number and stop the 
+    "Read CSV File and Select Clockc.vi", then you can close both.
+
+   3)"Alarm clock.vi" is the simulation of alarm clock that user selected previously.
