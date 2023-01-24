@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <stdint.h>
 
-struct DataSet{//prototype of struct DataSet
+struct DataSet
+{
     char data1;
     int data2;
     char data3;
