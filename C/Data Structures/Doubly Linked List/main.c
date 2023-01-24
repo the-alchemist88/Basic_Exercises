@@ -19,7 +19,6 @@
 int main()
 {
 	int A[] = {3, 5, 7, 10, 15, 18}; // a random int array
-
 	int data = A[3];
 	
 	puts("Create a doubly linked list(DLL) from an array:");
