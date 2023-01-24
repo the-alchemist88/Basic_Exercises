@@ -1,7 +1,8 @@
 #include <iostream>
 #include <cmath>
 
-class Vector {
+class Vector
+{
 private:
 //members
     float X;
